@@ -87,7 +87,5 @@ The website is easily customizable:
 - Screen reader friendly
 - High contrast colors for readability
 
-## License
 
-This project is created for demonstration purposes.
 
